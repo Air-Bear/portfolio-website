@@ -197,8 +197,7 @@ var timesClicked = 0;
 })(jQuery);
 
 raveButton.addEventListener("click", () => {
-
-
+	
 	if(timesClicked < 10)
 	{
 		timesClicked++;
